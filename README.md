@@ -20,6 +20,7 @@ The dataset used for this project is trojantrojannew.csv, which includes a set o
 **Data Preprocessing**
 1.Loading the Data:
 The dataset is loaded into a DataFrame.
+
 ![image](https://github.com/Poushali-dev/Trojan-Detection-in-Machine-Learning-Using-Random-Forest/assets/175179861/76b0b1a2-1de7-46a8-b3c3-376c11abda9e)
 
 2. Creating Dummy Variables:
