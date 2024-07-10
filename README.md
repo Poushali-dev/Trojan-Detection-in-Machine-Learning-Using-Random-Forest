@@ -1,23 +1,37 @@
 # Trojan-Detection-in-Machine-Learning-Using-Random-Forest
 
 **Overview**
+
 This project aims to classify Trojan malware samples as either "Trojan Infected" or "Trojan Free" using a dataset. The methodology involves a series of data preprocessing steps, feature engineering, model training, and evaluation. Specifically, it employs Random Forest and Decision Trees to achieve this classification task and assesses model performance through various metrics.
 
+
 **Table of Contents**
+
 1.Dataset
+
 2.Data Preprocessing
+
 3.Feature Engineering
+
 4.Model Training and Evaluation
+
 5.Combining Decision Trees
+
 6.Final Model and Results
+
 7.Classification Report
+
 8.F-Score Calculation
+
 9.Dependencies
 
+
 **Dataset**
+
 The dataset used for this project is trojantrojannew.csv, which includes a set of features related to Trojan malware samples along with a label indicating whether a sample is "Trojan Infected" or "Trojan Free."
 
 **Data Preprocessing**
+
 1.Loading the Data:
 The dataset is loaded into a DataFrame.
 
